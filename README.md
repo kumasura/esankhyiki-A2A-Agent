@@ -6,7 +6,7 @@
 [![A2A Protocol](https://img.shields.io/badge/A2A-Compliant-blueviolet)](https://google.github.io/A2A/)
 [![Google ADK](https://img.shields.io/badge/Google_ADK-Powered-orange)](https://google.github.io/adk-docs/)
 
-A production-ready AI agent stack for querying official Indian government statistics from MoSPI. Built on two complementary protocols: **MCP** (Model Context Protocol) for tool interoperability, and **A2A** (Agent-to-Agent) for inter-agent communication.
+An AI agent stack for querying official Indian government statistics from MoSPI. Built on two complementary protocols: **MCP** (Model Context Protocol) (https://github.com/nso-india/esankhyiki-mcp) for tool interoperability, and **A2A** (Agent-to-Agent) for inter-agent communication.
 
 ---
 
