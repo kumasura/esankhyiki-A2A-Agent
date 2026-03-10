@@ -411,7 +411,6 @@ We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guid
 ## Resources
 
 - [MoSPI Open APIs](https://api.mospi.gov.in) — Official API documentation and e-Sankhyiki portal
-- [A2A Protocol Specification](https://google.github.io/A2A/) — Agent-to-Agent protocol docs
 - [Google ADK Documentation](https://google.github.io/adk-docs/) — Agent Development Kit
 - [FastMCP Documentation](https://gofastmcp.com) — MCP framework docs
 - [Model Context Protocol](https://modelcontextprotocol.io) — MCP specification
