@@ -62,7 +62,7 @@ This project is an **AI agent foundation layer** for official Indian government 
 ```
 ┌─────────────────────────────────────────────────────────────┐
 │                    A2A Clients / Agents                     │
-│         (Claude, other agents, orchestrators)               │
+│                 (Other agents, orchestrators)               │
 └──────────────────────────┬──────────────────────────────────┘
                            │ JSON-RPC 2.0  (POST /)
                            │ SSE Streaming (tasks/sendSubscribe)
@@ -96,6 +96,7 @@ This project is an **AI agent foundation layer** for official Indian government 
 
 mospi-mcp-api/
 ├── a2a_server.py            # A2A-compliant agent server (Google ADK)
+├── test_a2a.ps1             # To test A2A Agent
 ├── mospi_server.py          # FastMCP server — tools, validation, routing
 ├── mospi/
 │   └── client.py            # MoSPI API HTTP client
