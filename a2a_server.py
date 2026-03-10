@@ -282,7 +282,7 @@ def agent_card() -> Dict[str, Any]:
             "factory data (ASI), national accounts (NAS), and energy statistics."
         ),
         "url": base_url,
-        "version": "0.2.0",
+        "version": "0.1.0",
         "documentationUrl": "https://github.com/kumasura/esankhyiki-A2A",
         "provider": {
             "organization": "esankhyiki",
